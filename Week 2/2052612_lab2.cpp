@@ -5,6 +5,8 @@
 #define SIZE 100
 using namespace std;
 
+// Author: Mai Huu Nghia
+
 string* name = new string[SIZE];
 int* point = new int[SIZE];
 
