@@ -4,6 +4,8 @@
 #include <climits>
 using namespace std;
 
+// Author: Mai Huu Nghia
+
 class University;
 
 class HCMUT
