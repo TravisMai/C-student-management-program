@@ -5,6 +5,8 @@
 #include "2052612_lab4.h"
 using namespace std;
 
+// Author: Mai Huu Nghia
+
 int main()
 {
     University ptn;
