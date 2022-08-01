@@ -1,0 +1,28 @@
+OOP W5 Lab 5 C++
+
+Prepared by Dr Han Duy Phan.
+
+Requirements:
+Improve the simple C++ student management program from Lab 4. For this week, you need to create two new classes UniStudent and CollegeStudent derived from the existing class Student. While both types of students have similar attributes like names, day of births, school names, course names; the uni students have 8 semesters in their courses and each semester has 3 assignments, 2 tests and 1 exam; and the college students have 4 semesters in their courses and each semester has 1 assignment, 1 test and 1 exam. 
+You need to appropriately decide the common attributes/methods and the distinguished attributes/methods for the parent class Student and its two child classes UniStudent and CollegeStudent.
+
+Submission: 
+Create a zip file of all your .cpp and .h project files.
+Make sure to name your zip file using the following format
+[StudentID]_[StudentFullName]_[ClassName]_Lab5.zip
+Submit your zip file before the deadline using the corresponding link on Moodle for your class (each class has a different deadline).
+
+Marking criteria: 
+Each lab is worth 3% of total mark.
+No attempt 0 mark, serious attempt 1 mark, working attempt 2 marks, good attempt 3 marks.
+
+Resources:
+(1) Weekly slides
+(2) C++ How to Program, 9th Edition, Paul Deitel
+(3) Object-Oriented Programming in C++, 4th Edition, Robert Lafore
+(4) http://www.cplusplus.com/doc/tutorial/dynamic/
+(5) https://www.geeksforgeeks.org/pointers-vs-references-cpp/
+(6) https://www.cplusplus.com/doc/tutorial/classes/
+(7) https://www.geeksforgeeks.org/destructors-c/
+(8) https://www.geeksforgeeks.org/how-to-initialize-array-of-objects-with-parameterized-constructors-in-c/
+(9) https://www.cplusplus.com/doc/tutorial/inheritance/
