@@ -1,1 +1,1 @@
-# C-student-management-program
+C++ student management program (Object-oriented programming)
