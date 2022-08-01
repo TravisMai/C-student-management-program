@@ -5,6 +5,8 @@
 #include <math.h>
 using namespace std;
 
+// Author: Mai Huu Nghia
+
 class University;
 class UniStu;
 class ColStu;
