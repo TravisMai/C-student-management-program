@@ -4,6 +4,8 @@
 #define SIZE 100
 using namespace std;
 
+// Author: Mai Huu Nghia
+
 string name[SIZE];
 
 void add()
